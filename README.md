@@ -9,7 +9,7 @@ Bu proje, el yazısı rakamları (0-9) tanımak için geliştirilmiş uçtan uca
 
 ## 📸 Ekran Görüntüsü
 
-![Demo Uygulama](https://raw.githubusercontent.com/27MetinSerinkaya/pytorch-mnist-digits/main/screenshots/demo.png)
+![Demo Uygulama](./screenshots/demo.png)
 
 
 ## 🚀 Özellikler
