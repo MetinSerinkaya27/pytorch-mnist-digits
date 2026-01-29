@@ -1,0 +1,9 @@
+# Python gereksizleri
+__pycache__/
+*.pyc
+
+# Veri seti (Git'e yüklenmez, çok büyük)
+data/
+
+# VS Code ayarları
+.vscode/
